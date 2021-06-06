@@ -1,0 +1,54 @@
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border:1px solid black;
+    height:auto;
+    width: 550px;
+    padding: 30px ;
+    border-radius: 10px;
+}
+h3{
+    /* margin: 20px; */
+    color: orangered;
+    font-weight: bold;
+}
+*{
+    font-size: 18px;
+}
+.container form table tr td input{
+    /* background-color: blue; */
+    width: 230px;
+}
+table{
+    width: 500px;
+}
+.container form table tr .gender{
+    width: 50px;
+}
+.container form table tr th{
+    text-align: center;
+}
+#submit{
+    letter-spacing: 1.5px;
+    border:none;
+    /* color: white; */
+    background-color: orangered;
+    border-radius: 7px;
+    height: 30px;
+    width: 100px;
+    font-size: 18px;
+    font-weight: 600;
+}
+#reset{  letter-spacing: 1.7px;
+    border:none;
+    /* color: white; */
+    background-color: orangered;
+    border-radius: 7px;
+    height: 30px;
+    width: 100px;
+    font-size: 18px;
+    font-weight: 600;
+}
+#city{
+    width: 230px;
+}
